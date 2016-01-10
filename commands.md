@@ -135,7 +135,9 @@ revert - To revert from a current succesful commit to the previous commit
 
 Remote Handling
 ---------------
+/*Connecting over SSH
 
+If you clone with SSH, you must generate SSH keys on each computer you use to push or pull from GitHub.*/
 remote add - To add a remote
 
 	Example:
